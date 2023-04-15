@@ -24,7 +24,7 @@ cd C:\Users\username\Downloads\GUI_Calculator
 3. Navigate to the `dist` folder
 
 ```
-cd GUI_Calculator/exe/dist
+cd GUI_Calculator\exe\dist
 ```
 4. Start the application
 
