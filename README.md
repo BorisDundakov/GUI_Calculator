@@ -14,10 +14,11 @@ A simple Calculator app build in Python with Tkinter. The app can be downloaded 
 https://github.com/BorisDundakov/GUI_Calculator.git
 ```
 
-#### Run the application
+### Run the application
 
 1. Type and search cmd on the Start menu
 2. Navigate to your folder
+
 ```
 cd C:\Users\username\Downloads\GUI_Calculator
 ```
@@ -26,8 +27,46 @@ cd C:\Users\username\Downloads\GUI_Calculator
 ```
 cd GUI_Calculator\exe\dist
 ```
+
 4. Start the application
 
 ```
 start GUI_Calculator.exe
+```
+
+
+## How to run - Linux
+
+### Install wine application
+
+1. Update the system
+
+```
+sudo apt update
+```
+
+2. Install wine
+
+```
+sudo apt-get install wine
+```
+
+### Clone the repository
+
+```
+https://github.com/BorisDundakov/GUI_Calculator.git
+```
+
+### Run the application
+
+1. Navigate to the 'dist' folder
+
+```
+cd  GUI_Calculator/exe/dist
+```
+
+2. Start the application with wine
+
+```
+wine GUI_Calculator.exe
 ```
