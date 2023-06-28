@@ -16,7 +16,7 @@ https://github.com/BorisDundakov/GUI_Calculator.git
 ### Run the application
 
 1. Type and search cmd on the Start menu
-2. Navigate to your folder
+2. Navigate to the cloned repository folder
 
 ```
 cd C:\Users\username\Downloads\GUI_Calculator
@@ -58,7 +58,7 @@ https://github.com/BorisDundakov/GUI_Calculator.git
 
 ### Run the application
 
-1. Navigate to the 'dist' folder
+1. Navigate to the 'dist' folder inside the cloned repository
 
 ```
 cd  GUI_Calculator/exe/dist
